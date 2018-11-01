@@ -1,0 +1,30 @@
+{
+  "name": "promo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "moment": "^2.22.2",
+    "pg-promise": "^8.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pathomph/Project-I-Mobile.git"
+  },
+  "keywords": [
+    "Tan_0937478073"
+  ],
+  "bugs": {
+    "url": "https://github.com/Pathomph/Project-I-Mobile/issues"
+  },
+  "homepage": "https://github.com/Pathomph/Project-I-Mobile#readme",
+  "description": ""
+}
