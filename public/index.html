@@ -349,7 +349,7 @@ var item = filterItems(search, data);
 console.log("xxx", item)
 localStorage.setItem('items', item);
 
-console.log('tong', item);
+
 test(item);
 document.getElementById('tabbar').setActiveTab(2);
 // localStorage.setItem('title', item);
@@ -370,7 +370,8 @@ db.collection("PRODUCT").get()
 
 
   function test(title) {
-    console.log("tong", title);
+   
+   
     // for(var i =0;i<tests.length;i++){
     console.log('tset', title);
     if (title == 0) {
